@@ -18,7 +18,11 @@ specifically, you should do the following:
 - If you have extra time, play a little!  Improve or extend the code
   in some way that appeals to you.  If this project appeals to you,
   extensions could easily be the basis of a class project.
-  
+
+*Note*: The default visualizer uses a CSV text output; if you would
+like, you may switch to the binary output format that you should be
+able to view using [this Javascript viewer](http://www.cs.cornell.edu/courses/cs5220/2017fa/viz.html).
+
 ## Resources
 
 - The [annotated code](code.md)
